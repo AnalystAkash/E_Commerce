@@ -22,6 +22,7 @@ public class amazon extends BrowserActivity {
 	
 	@Test
 	public void openurl1() {
+		
 		BrowserActivity.amazon();
 	}
 }
